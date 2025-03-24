@@ -32,7 +32,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![pico.sh](https://img.shields.io/badge/pico.sh-282a36?style=for-the-badge&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cGF0aCBjbGFzcz0ibG9nbyIgZD0iTTEwNy4zMDEgMzlDMTExLjY0NSA0Ni41MjQxIDExMy45NTQgNTUuMDUwMyAxMTMuOTk5IDYzLjczODJDMTE0LjA0NSA3Mi40MjYyIDExMS44MjYgODAuOTc2MSAxMDcuNTYxIDg4LjU0NTJDMTAzLjI5NiA5Ni4xMTQ0IDk3LjEzMTkgMTAyLjQ0MiA4OS42NzcgMTA2LjkwM0M4Mi4yMjIgMTExLjM2NSA3My43MzMyIDExMy44MDcgNjUuMDQ3IDExMy45ODlDNTYuMzYwOCAxMTQuMTcxIDQ3Ljc3NzIgMTEyLjA4NiA0MC4xNDE5IDEwNy45NDFDMzIuNTA2NyAxMDMuNzk1IDI2LjA4MzUgOTcuNzMxNiAyMS41MDUzIDkwLjM0NzZDMTYuOTI3MSA4Mi45NjM3IDE0LjM1MTkgNzQuNTE0MiAxNC4wMzM2IDY1LjgzMkMxMy43MTUyIDU3LjE0OTcgMTUuNjY0NyA0OC41MzQ0IDE5LjY4OTkgNDAuODM1TDY0IDY0TDEwNy4zMDEgMzlaIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMTIiPjwvcGF0aD4KICA8L3N2Zz4=)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Flathub](https://img.shields.io/badge/Flathub-000?style=for-the-badge&logo=Flathub&logoColor=white)
+<!--![Flathub](https://img.shields.io/badge/Flathub-000?style=for-the-badge&logo=Flathub&logoColor=white)-->
 
 <!--TODO: add plasticity-->
 ## Operating Systems
