@@ -6,6 +6,7 @@
 ![Nix](https://img.shields.io/badge/Nix-7eb8e2?style=for-the-badge&logo=nixos&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RegExp](https://img.shields.io/badge/.*%20RegExp-FFF?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-100?style=for-the-badge&logo=Markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-96D9D9?style=for-the-badge&logo=cplusplus&logoColor=black)
@@ -23,6 +24,7 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=Hyprland&logoColor=black)
 ![vscode](https://img.shields.io/badge/vscode-29b6f6?style=for-the-badge&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00NCwxMS4xMXYyNS43OGMwLDEuMjctMC43OSwyLjQtMS45OCwyLjgybC04LjgyLDQuMTRMMzQsMzNWMTVMMzMuMiw0LjE1bDguODIsNC4xNCBDNDMuMjEsOC43MSw0NCw5Ljg0LDQ0LDExLjExeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik05LDMzLjg5NkwzNCwxNVY1LjM1M2MwLTEuMTk4LTEuNDgyLTEuNzU4LTIuMjc1LTAuODZMNC42NTgsMjkuMjM5IGMtMC45LDAuODMtMC44NDksMi4yNjcsMC4xMDcsMy4wMzJjMCwwLDEuMzI0LDEuMjMyLDEuODAzLDEuNTc0QzcuMzA0LDM0LjM3LDguMjcxLDM0LjQzLDksMzMuODk2eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik05LDE0LjEwNEwzNCwzM3Y5LjY0N2MwLDEuMTk4LTEuNDgyLDEuNzU4LTIuMjc1LDAuODZMNC42NTgsMTguNzYxIGMtMC45LTAuODMtMC44NDktMi4yNjcsMC4xMDctMy4wMzJjMCwwLDEuMzI0LTEuMjMyLDEuODAzLTEuNTc0QzcuMzA0LDEzLjYzLDguMjcxLDEzLjU3LDksMTQuMTA0eiIvPjwvc3ZnPg==)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-1a3b55?style=for-the-badge&logo=Steam&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9?style=for-the-badge&logo=Flatpak&logoColor=white)
 ![kdenlive](https://img.shields.io/badge/kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=Gnome&logoColor=white)
@@ -31,7 +33,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![pico.sh](https://img.shields.io/badge/pico.sh-282a36?style=for-the-badge&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cGF0aCBjbGFzcz0ibG9nbyIgZD0iTTEwNy4zMDEgMzlDMTExLjY0NSA0Ni41MjQxIDExMy45NTQgNTUuMDUwMyAxMTMuOTk5IDYzLjczODJDMTE0LjA0NSA3Mi40MjYyIDExMS44MjYgODAuOTc2MSAxMDcuNTYxIDg4LjU0NTJDMTAzLjI5NiA5Ni4xMTQ0IDk3LjEzMTkgMTAyLjQ0MiA4OS42NzcgMTA2LjkwM0M4Mi4yMjIgMTExLjM2NSA3My43MzMyIDExMy44MDcgNjUuMDQ3IDExMy45ODlDNTYuMzYwOCAxMTQuMTcxIDQ3Ljc3NzIgMTEyLjA4NiA0MC4xNDE5IDEwNy45NDFDMzIuNTA2NyAxMDMuNzk1IDI2LjA4MzUgOTcuNzMxNiAyMS41MDUzIDkwLjM0NzZDMTYuOTI3MSA4Mi45NjM3IDE0LjM1MTkgNzQuNTE0MiAxNC4wMzM2IDY1LjgzMkMxMy43MTUyIDU3LjE0OTcgMTUuNjY0NyA0OC41MzQ0IDE5LjY4OTkgNDAuODM1TDY0IDY0TDEwNy4zMDEgMzlaIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMTIiPjwvcGF0aD4KICA8L3N2Zz4=)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=Steam&logoColor=white)
 ![Flathub](https://img.shields.io/badge/Flathub-000?style=for-the-badge&logo=Flathub&logoColor=white)
 
 <!--TODO: add plasticity-->
